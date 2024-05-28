@@ -8,7 +8,7 @@
 ### NextJS Auth with Clerk
 [Link Dashboard](https://dashboard.clerk.com/sign-in?redirect_url=https%3A%2F%2Fdashboard.clerk.com%2F)
 
-@create login form :+1
+@create login form :+1:
 
 
 [](https://cdn.sanity.io/images/e1ql88v4/production/2c9fa07f8f2c4f1fa5ba6fb5196ba45b31a694e1-2400x1260.png?fit=max&auto=format&w=1200&h=630&fm=png)
