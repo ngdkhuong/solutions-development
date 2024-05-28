@@ -6,4 +6,4 @@ get link redis
 ```
 REDIS_URL="your-redis-url"
 ```
-@:+1: use url with "rediss" intead of "redis" 
+@ :+1: use url with "rediss" intead of "redis" 
